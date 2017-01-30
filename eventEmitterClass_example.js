@@ -27,5 +27,3 @@ console.log(eventListeners + ' listener(s) listening to connection event.');
 eventEmitter.emit('connection');
 
 console.log("Program ended");
-
-
